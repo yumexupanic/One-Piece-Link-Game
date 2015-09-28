@@ -27,4 +27,4 @@
 
     ![image](https://raw.githubusercontent.com/yumemor/One-Piece-Link-Game/master/images/5.png)
 	
-###`游戏能参考的地方只有算法，源码就共享了，现在回头看这个游戏觉得自己当初写的好垃圾，放在Git上只为纪念。`
+>`游戏能参考的地方只有算法，源码就共享了，现在回头看这个游戏觉得自己当初写的好垃圾，放在Git上只为纪念。`
